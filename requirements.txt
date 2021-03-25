@@ -95,7 +95,7 @@ python-gflags==3.1.2
 python-propeller==0.2.6
 pytz==2018.9
 PyWavelets==1.0.3
-PyYAML==5.1
+PyYAML==5.4
 radon==3.0.1
 rasterio==1.0.22
 requests==2.21.0
