@@ -82,7 +82,7 @@ py==1.8.0
 pycodestyle==2.5.0
 pydocstyle==3.0.0
 pyflakes==2.1.1
-Pygments==2.3.1
+Pygments==2.7.4
 pygments-json==0.1
 PyInstaller==3.4
 pylama==7.6.6
