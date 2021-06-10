@@ -25,7 +25,7 @@ cycler==0.10.0
 Cython==0.29.6
 data-process==0.2.1
 decorator==4.4.0
-Django==2.2.13
+Django==2.2.24
 doc8==0.8.0
 docutils==0.14
 earthpy==0.6.7
